@@ -4,7 +4,7 @@ Video File Transmission Over TCP Sockets
 
 Demo Video link online 
 
-https://github.com/user-attachments/assets/14bcb70c-29af-480f-ba6b-e88e5d2792a8
+https://drive.google.com/file/d/1kusWkbUe4AnQVLJrPzMsP0YObq3Na3wr/view?usp=drive_link
 
 
 Overview
