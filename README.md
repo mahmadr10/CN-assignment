@@ -4,8 +4,7 @@ Video File Transmission Over TCP Sockets
 
 Demo Video link online 
 
-https://drive.google.com/file/d/1kusWkbUe4AnQVLJrPzMsP0YObq3Na3wr/view?usp=drive_link
-
+https://drive.google.com/file/d/1fNYl-9KiwBuowQA6tdowJsTFBb8pnFPH/view
 
 Overview
 This task demonstrates a simple implementation of a sender/receiver program using TCP sockets to transmit video file content over a network. The task is to send the contents of a video file from the sender to the receiver using GNU C(gcc) in a Linux environment. The transmission occurs over a TCP connection, with the file data being sent in segments and reconstructed at the receiving end.
